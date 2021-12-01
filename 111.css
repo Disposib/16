@@ -1,0 +1,63 @@
+.main{
+    display: flex;
+    margin: 50px;
+}
+.card-body{
+    margin-top: 50px;
+}
+.card-title{
+    position: absolute;
+    top: 370px;
+    height: 45px;
+    width: 82px;
+    background-color: yellow;
+    text-align: center;
+    font-size: 25px;
+    padding: 3px;
+    border-radius: 20px;
+    border: 3px solid black;
+}
+.card{
+    margin-left: 15px;
+    height: 40rem;
+}
+.card-img-top{
+    padding: 20px;
+    height: 22rem;   
+}
+.card-img{
+    padding: 20px;
+    width: 100rem;
+    height: 22rem;
+}
+.card-i{
+    padding: 20px;
+    height: 22rem;
+}
+.card-{
+    padding: 20px;
+    height: 22rem;
+}
+.link{
+    position: relative;
+    top: -3rem;
+    margin-left: 350px;
+    font-size: 22px;
+    color: grey;
+}
+.doll{
+    display: inline;
+}
+.card-text{
+    font-size: 22px;
+}
+.btn-primary{
+    display: block;
+    font-size: 25px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: yellow;
+    text-decoration: none;
+    height: 50px;
+    padding: 5px;
+}
